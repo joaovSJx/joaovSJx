@@ -10,7 +10,7 @@
 
 <br>
 
-## 🖤 Sobre mim
+##  Sobre mim
 
 Sou o **João Vitor Santos**, desenvolvedor **Júnior** com interesse em construir soluções práticas usando **Python, criação de bots, JavaScript, HTML e CSS**.
 Este perfil reúne os projetos em que venho trabalhando e evoluindo como desenvolvedor.
