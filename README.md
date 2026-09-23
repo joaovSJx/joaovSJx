@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A1128,100:16213E&height=220&section=header&text=Jo%C3%A3o%20Vitor%20Santos&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Dev%20Junior&descAlignY=55&descSize=18&descColor=8B949E" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A1128,100:16213E&height=220&section=header&text=Jo%C3%A3o%20Vitor%20Santos&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=&descAlignY=55&descSize=18&descColor=8B949E" width="100%"/>
 
 <br>
 
@@ -12,7 +12,7 @@
 
 ##  Sobre mim
 
-Sou o **João Vitor Santos**, desenvolvedor **Júnior** com interesse em construir soluções práticas usando **Python, criação de bots, JavaScript, HTML e CSS**.
+Sou o **João Vitor Santos**, e tenho com interesse em construir soluções práticas usando **Python, criação de bots, JavaScript, HTML e CSS**.
 Este perfil reúne os projetos em que venho trabalhando e evoluindo como desenvolvedor.
 
 <br>
