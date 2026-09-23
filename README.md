@@ -22,7 +22,7 @@ Este perfil reúne os projetos em que venho trabalhando e evoluindo como desenvo
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Cria%C3%A7%C3%A3o%20de%20Bots-0D1117?style=for-the-badge&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Cria%C3%A7%C3%A3o%20de%20Bots-0D1117?style=for-the-badge&logo=robotframework&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF" />
@@ -33,63 +33,16 @@ Este perfil reúne os projetos em que venho trabalhando e evoluindo como desenvo
 
 ## 🚀 Projetos
 
-<div align="center">
-
-<a href="https://github.com/joaovSJx/biblioteca">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovSJx&repo=biblioteca&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/joaovSJx/sistema-O.S">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovSJx&repo=sistema-O.S&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-</div>
+- 📚 [**biblioteca**](https://github.com/joaovSJx/biblioteca) — sistema de gerenciamento de biblioteca
+- 🛠️ [**sistema-O.S**](https://github.com/joaovSJx/sistema-O.S) — sistema de ordens de serviço
 
 <br>
 
-## 📊 GitHub Stats
+## 🎯 Atualmente
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joaovSJx&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovSJx&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=joaovSJx&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-</div>
-
-<br>
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovSJx&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="100%"/>
-
-</div>
-
-<br>
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=joaovSJx&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6" />
-
-</div>
-
-<br>
-
-## 🐍 Snake Contribution
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/joaovSJx/joaovSJx/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
+- 📚 Aprendendo testes automatizados em Python
+- 🤖 Melhorando a arquitetura dos meus bots
+- 🌱 Buscando contribuir com projetos open source
 
 <br>
 
