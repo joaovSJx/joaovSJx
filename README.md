@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=550&lines=Python+%7C+CriaçãodeBots+%7C+JavaScript;HTML+%26+CSS;Sempre+aprendendo+algo+novo." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=550&lines=Python+%7C+Cria%C3%A7%C3%A3odeBots+%7C+JavaScript;HTML+%26+CSS;Sempre+aprendendo+algo+novo." alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🖤 Sobre mim
 
-Sou o **João Vitor Santos**, desenvolvedor **Júnior** com interesse em construir soluções práticas usando **Python, Java, JavaScript, HTML e CSS**.
+Sou o **João Vitor Santos**, desenvolvedor **Júnior** com interesse em construir soluções práticas usando **Python, criação de bots, JavaScript, HTML e CSS**.
 Este perfil reúne os projetos em que venho trabalhando e evoluindo como desenvolvedor.
 
 <br>
@@ -22,7 +22,7 @@ Este perfil reúne os projetos em que venho trabalhando e evoluindo como desenvo
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Cria%C3%A7%C3%A3o%20de%20Bots-0D1117?style=for-the-badge&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF" />
