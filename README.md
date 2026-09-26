@@ -35,6 +35,7 @@ Este perfil reúne os projetos em que venho trabalhando e evoluindo como desenvo
 
 - 📚 [**biblioteca**](https://github.com/joaovSJx/biblioteca) — sistema de gerenciamento de biblioteca
 - 🛠️ [**sistema-O.S**](https://github.com/joaovSJx/sistema-O.S) — sistema de ordens de serviço
+- 🤖 [**BOT**](https://github.com/joaovSJx/BOT) — bot de Discord para controle de ponto com botões interativos
 
 <br>
 
